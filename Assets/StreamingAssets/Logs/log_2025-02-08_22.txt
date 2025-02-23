@@ -1,0 +1,12 @@
+
+=== Log Start at 2025-02-08 22:46:04 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[22:46:03.022] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 39
+
+=== Log End ===

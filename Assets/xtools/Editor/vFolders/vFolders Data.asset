@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559e0c69106138246b43628b3b55697c, type: 3}
+  m_Name: vFolders Data
+  m_EditorClassIdentifier: 
+  folderDatas_byGuid:
+    keys:
+    - 980cdb06de2d6124595b568a279fdbc5
+    - 01f555d38dc75c842832e50565d74e1c
+    - 237fcfce0ee714a4b90b6f6b1b567b02
+    - 9c53962885c2c4f449125a979d6ad240
+    - 8c55fdb84ea69124285fc6daa8ba0739
+    - f54d1bd14bd3ca042bd867b519fee8cc
+    - 933b51b8f6743c3408c08b4547e651cd
+    - 3d07f5b32f9ddad44ad6c045248d925e
+    - c3e148a7d9cb7a04cb6a9e364e23bb9d
+    values:
+    - iconNameOrGuid: Font Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Material Icon
+      colorIndex: 6
+      isIconRecursive: 0
+      isColorRecursive: 1
+    - iconNameOrGuid: Prefab Icon
+      colorIndex: 3
+      isIconRecursive: 1
+      isColorRecursive: 1
+    - iconNameOrGuid: SceneAsset Icon
+      colorIndex: 5
+      isIconRecursive: 1
+      isColorRecursive: 1
+    - iconNameOrGuid: ComputeShader Icon
+      colorIndex: 1
+      isIconRecursive: 1
+      isColorRecursive: 1
+    - iconNameOrGuid: Font Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: RawImage Icon
+      colorIndex: 0
+      isIconRecursive: 1
+      isColorRecursive: 0
+    - iconNameOrGuid: 
+      colorIndex: 8
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: ScriptableObject Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+  bookmarks: []

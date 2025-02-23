@@ -1,0 +1,1092 @@
+
+=== Log Start at 2025-02-23 15:09:19 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:09:15.712] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:09:15.724] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:09:16.495] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:09:16.495] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:09:46 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:09:39.872] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:09:39.878] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:09:40.470] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:09:40.470] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:09:42.577] 键盘按键按下escape
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:11:05 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:10:51.592] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:10:51.600] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:10:52.234] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:10:52.234] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:11:45 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:11:13.120] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:11:13.126] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:11:13.713] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:11:13.713] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:11:27.061] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:11:41.622] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:11:43.500] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:11:44.108] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:11:44.575] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:11:44.862] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:17:11 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:15:47.874] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:15:47.883] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:15:48.525] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:15:48.526] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:17:03.491] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+[15:17:10.701] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 63
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:27:52 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:26:21.959] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:26:21.966] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:26:22.533] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:26:22.533] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:26:29.126] 键盘按键按下escape
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+[15:26:32.460] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:26:49.466] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:27:35.850] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:27:51.027] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:30:34 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:28:46.814] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:28:46.821] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:28:47.455] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:28:47.455] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:30:16.642] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.643] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.681] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.681] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.681] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.681] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.699] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.699] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.720] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.720] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.740] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.740] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.759] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.759] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.781] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.781] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.801] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.801] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.821] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.821] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.841] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.841] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.859] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.860] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.881] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.881] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.901] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.901] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.922] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.922] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.939] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.939] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.959] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.959] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:16.981] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:16.981] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.000] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.000] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.020] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.020] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.039] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.040] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.061] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.061] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.082] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.082] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.101] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.101] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.121] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.121] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.140] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.140] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.160] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.160] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.179] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.179] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.200] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.200] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.220] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.220] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.240] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.240] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.264] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.265] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.279] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.279] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.300] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.300] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.319] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.319] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.339] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.339] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.361] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.361] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.381] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.381] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.399] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.399] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.419] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.419] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.439] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.439] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.464] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.464] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.481] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.481] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.500] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.501] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.521] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.521] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.541] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.541] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.561] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.561] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.581] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.581] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.599] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.599] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.619] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.620] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.638] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.639] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.658] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.658] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.681] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.681] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.700] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.701] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.720] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.720] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.740] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.740] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.759] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.759] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.781] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.781] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.800] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.801] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.820] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.820] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.840] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.840] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.861] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.862] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.880] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.880] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.900] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.900] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.921] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.921] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.941] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.941] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.960] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.960] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:17.979] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:17.979] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.001] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.001] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.021] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.022] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.039] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.039] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.060] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.060] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.081] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.081] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.100] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.100] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.121] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.121] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.139] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.139] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.160] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.160] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.180] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.180] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.199] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.199] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.219] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.219] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.239] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.240] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.260] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.260] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:18.280] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:18.280] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.420] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.420] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.439] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.439] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.461] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.461] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.480] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.480] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.498] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.498] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.521] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.521] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.541] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.541] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.559] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.559] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.580] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.580] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.599] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.599] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.621] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.621] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.639] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.639] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.661] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.661] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.680] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.681] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.699] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.699] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.719] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.719] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.741] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.741] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.760] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.760] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.781] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.781] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.799] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.799] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.819] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.819] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.840] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.842] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.860] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.860] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.879] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.879] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.900] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.901] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.920] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.920] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.940] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.940] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.960] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.960] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.980] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.980] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:33.999] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:33.999] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.020] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.020] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.040] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.040] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.062] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.062] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.080] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.080] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.099] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.099] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.121] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.121] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.141] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.141] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.161] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.161] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.182] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.182] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.201] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.201] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.219] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.219] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.240] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.240] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.260] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.260] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.281] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.281] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.298] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.298] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.320] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.320] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.341] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.341] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.361] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.361] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.379] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.380] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.399] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.399] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.421] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.421] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.440] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.440] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.460] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.460] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.479] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.479] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[15:30:34.502] 界面已经打开：MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 100
+[15:30:34.502] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:33:17 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:32:31.313] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:32:31.320] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:32:31.929] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:32:31.930] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:32:33.776] 键盘按键按下escape
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+[15:33:14.832] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:37:01 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:36:55.991] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:36:55.999] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:36:56.623] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:36:56.623] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:37:00.929] 键盘按键按下escape
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 15:38:39 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[15:37:24.178] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:37:24.186] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[15:37:24.944] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:37:24.944] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[15:38:37.141] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===

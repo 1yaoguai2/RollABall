@@ -1,0 +1,1287 @@
+
+=== Log Start at 2025-02-23 16:00:55 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:00:53.490] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:00:53.496] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:00:54.132] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:00:54.132] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:01:23 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:01:00.529] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:01:00.536] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:01:01.165] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:01:01.166] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:03:40 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:03:21.060] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:03:21.067] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:03:21.839] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:03:21.840] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:06:10 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:06:02.734] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:02.740] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:03.489] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:06:03.489] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:06:06.030] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:06:25 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:06:13.222] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:13.228] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:14.000] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:06:14.002] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:06:31 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:06:28.863] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:28.869] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:29.631] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:06:29.632] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:06:57 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:06:51.537] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:51.543] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:06:52.305] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:06:52.305] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:07:28 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:07:01.133] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:07:01.140] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:07:01.909] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:07:01.910] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:07:26.341] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:10:32 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:10:27.131] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:10:27.141] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:10:27.143] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:10:27.144] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:10:29.696] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:11:01 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:10:58.693] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:10:58.701] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:10:59.540] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:10:59.541] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:11:30 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:11:19.867] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:11:19.891] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:11:19.894] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:11:19.895] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:11:22.446] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:11:59 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:11:54.048] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:11:54.057] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:11:54.060] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:11:54.060] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:11:56.639] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:12:54 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:12:33.780] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:12:33.789] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:12:33.793] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:12:33.793] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:12:36.369] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:14:48 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:14:29.205] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:14:29.217] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:14:29.220] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:14:29.220] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:14:31.312] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:18:01 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:17:56.688] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:17:56.712] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:17:56.715] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:17:56.716] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:17:59.032] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:18:06 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:18:05.728] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:18:05.750] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:18:05.752] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:18:05.753] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:19:40 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:18:40.501] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:18:40.512] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:18:40.515] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:18:40.515] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:18:43.085] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:20:35 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:20:31.537] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:20:31.555] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:20:31.557] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:20:31.559] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:20:34.139] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:21:15 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:20:54.998] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:20:55.010] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:20:55.013] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:20:55.013] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:21:22 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:21:20.108] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:21:20.123] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:21:20.126] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:21:20.126] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:21:43 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:21:41.919] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:21:41.931] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:21:41.934] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:21:41.935] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:26:03 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:26:01.093] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:26:01.110] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:26:01.114] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:26:01.115] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:29:17 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:28:00.875] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:28:00.891] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:28:00.893] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:28:00.894] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:28:13.921] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:31:07 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:29:31.298] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:29:31.309] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:29:31.312] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:29:31.312] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:29:44.396] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:32:46 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:32:23.775] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:32:23.789] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:32:23.791] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:32:23.792] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:32:26.351] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:34:10 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:33:33.982] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:33:33.999] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:33:34.002] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:33:34.002] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:34:08.371] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:37:23 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:35:08.142] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:35:08.154] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:35:08.157] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:35:08.157] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:37:21.719] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:40:50 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:40:40.600] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:40:40.628] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:40:40.632] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:40:40.632] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:40:43.138] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:41:21 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:41:20.971] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:41:21.003] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:41:35 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:41:26.874] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:41:26.888] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:41:26.891] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:41:26.891] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:42:06 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:42:05.493] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:42:05.523] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:42:05.526] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:42:05.526] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:43:01 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:42:58.457] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:42:58.473] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:42:58.474] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:42:58.476] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:43:01.058] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:43:34 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:43:21.088] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:43:21.103] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:43:21.106] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:43:21.107] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:44:23 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:43:47.473] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:43:47.486] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:43:47.489] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:43:47.489] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:43:53.429] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:44:00.108] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:44:06.423] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:44:14.688] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:44:21.605] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:44:50 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:44:42.083] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:44:42.096] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:44:42.098] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:44:42.099] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:44:48.585] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:45:26 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:45:16.606] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:16.613] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:17.456] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:45:17.458] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:45:19.851] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:45:45 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:45:36.727] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:36.734] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:37.644] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:45:37.645] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:45:44.112] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:46:02 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:45:57.547] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:57.557] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:45:58.514] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:45:58.515] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:01.040] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:46:15 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:46:10.900] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:10.911] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:11.829] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:11.830] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:14.362] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:46:40 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:46:23.971] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:23.980] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:24.849] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:24.850] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:27.484] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:46:31.465] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:46:39.129] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:47:52 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:46:53.801] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:53.812] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:46:54.660] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:54.660] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:46:57.278] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:01.975] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:07.148] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:14.443] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:17.915] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:21.881] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:27.481] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:33.638] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:37.357] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:44.432] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+[16:47:48.255] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:48:26 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:47:58.546] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:47:58.553] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:47:59.433] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:47:59.433] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:48:24.290] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:49:10 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:48:46.730] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:48:46.737] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:48:47.672] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:48:47.673] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:48:53.833] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 65
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:50:09 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:49:20.717] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:49:20.725] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:49:21.557] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:49:21.558] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:52:45 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:50:48.391] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:50:48.397] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:50:49.282] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:50:49.283] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:51:06.570] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:51:44.315] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:51:53.232] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:51:59.632] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:13.024] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:18.873] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:26.464] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:31.837] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:35.587] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:52:43.197] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:53:45 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:53:15.901] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:53:15.907] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:53:16.813] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:53:16.814] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:53:19.355] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:53:28.818] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:53:32.199] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:53:37.563] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:53:40.684] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+[16:53:44.093] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 66
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:54:40 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:54:13.402] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:54:13.408] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:54:14.450] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:54:14.451] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:55:49 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:54:54.674] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:54:54.679] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:54:55.633] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:54:55.635] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:56:38 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:56:30.031] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:56:30.037] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:56:30.948] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:56:30.949] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:57:31 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:56:52.887] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:56:52.893] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:56:53.839] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:56:53.840] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:58:03 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:57:38.252] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:57:38.257] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:57:39.186] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:57:39.187] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-23 16:58:33 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[16:58:25.057] MainCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:58:25.062] MenuCanvas (GameUISO)
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 39
+[16:58:26.031] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:58:26.031] GameUISo名称 MainCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[16:58:32.274] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\SetPFSShow.cs
+Line: 35
+[16:58:32.275] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+[16:58:32.643] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\SetPFSShow.cs
+Line: 35
+[16:58:32.644] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+[16:58:32.892] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\SetPFSShow.cs
+Line: 35
+[16:58:32.893] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+[16:58:33.109] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\SetPFSShow.cs
+Line: 35
+[16:58:33.109] 键盘按键按下f8
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Tests\Runtime\ClosePanelCR.cs
+Line: 34
+
+=== Log End ===

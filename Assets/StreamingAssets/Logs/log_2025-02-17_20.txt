@@ -1,0 +1,81 @@
+
+=== Log Start at 2025-02-17 20:36:26 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[20:36:20.549] GameUISo名称 MainCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[20:36:23.577] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[20:36:23.936] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:36:24.345] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:36:24.660] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:36:24.926] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 20:39:05 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[20:37:35.920] GameUISo名称 MainCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[20:37:37.127] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:37:38.927] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[20:37:42.757] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:37:46.254] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 20:39:28 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[20:39:09.078] GameUISo名称 MainCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[20:39:12.086] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[20:39:23.781] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 20:39:52 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[20:39:49.792] GameUISo名称 ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===

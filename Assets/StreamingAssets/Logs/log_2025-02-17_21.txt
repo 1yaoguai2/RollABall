@@ -1,0 +1,273 @@
+
+=== Log Start at 2025-02-17 21:08:13 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[20:40:29.648] GameUISo名称 MainCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[20:40:32.821] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[20:40:33.668] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:33.817] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:34.391] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:34.681] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:34.871] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:35.046] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:35.239] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[20:40:35.572] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:12:06 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:09:59.599] GameUISo名称 MainCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:10:01.527] 界面名称错误或者未配置路径：ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[21:10:18.802] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:13:03 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:13:01.257] GameUISo名称 ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:29:04 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:28:53.264] GameUISo名称 ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:28:56.367] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:33:33 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:33:23.496] GameUISo名称 ConfirmGUI
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:35:13 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:35:00.708] GameUISo名称 MenuCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:35:05.384] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:35:38 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:35:22.432] GameUISo名称 MenuCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:35:25.530] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:36:02 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:35:53.318] GameUISo名称 MenuCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:35:56.352] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:36:38 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:36:30.408] GameUISo名称 MenuCanvas
+File: .\Library\PackageCache\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:36:33.637] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:45:32 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:45:30.274] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:45:52 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:45:51.183] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:47:38 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:47:05.758] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:47:08.839] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[21:47:17.741] 界面名称错误或者未配置路径：ConfirmGUI
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:48:16 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:47:53.280] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:47:56.514] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:49:45 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:48:44.273] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:49:34.245] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:53:18 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:50:09.020] GameUISo名称 MenuCanvas
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\AllCanvasController.cs
+Line: 47
+[21:50:27.126] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:55:42 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:55:11.126] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+[21:55:14.723] 界面名称错误或者未配置路径：ConfirmGUI
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+[21:55:34.443] 界面名称错误或者未配置路径：ConfirmGUI
+File: D:\Study\Unity_Projects\Roll a ball\Assets\xtools\Runtime\UI\Panel\UIManager.cs
+Line: 111
+
+=== Log End ===
+
+=== Log Start at 2025-02-17 21:56:00 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 0.1.0
+=====================================
+
+[21:55:50.107] 游戏结束
+File: D:\Study\Unity_Projects\Roll a ball\Assets\Scripts\PlayerController.cs
+Line: 42
+
+=== Log End ===

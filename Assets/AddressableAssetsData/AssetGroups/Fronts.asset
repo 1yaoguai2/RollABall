@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Fronts
+  m_EditorClassIdentifier: 
+  m_GroupName: Fronts
+  m_GUID: 97afa7004633d3a4f92510ae174a7935
+  m_SerializeEntries:
+  - m_GUID: 134edd19983580944ae2745ccb3e616f
+    m_Address: SmileySans-Oblique-2 SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 39790e4bf1d25694e80358eb6ab5532a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e30550dfac96aa540b00fdcee8a1ba35, type: 2}
+    - {fileID: 11400000, guid: 12b5d824a2b4e4340ab65774adcea18c, type: 2}
